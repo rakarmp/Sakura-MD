@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/rakarmp/Sakura-MD/tree/master/gambar/sakura.png" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/rakarmp/Sakura-MD/tree/master/gambar/sakura.png" alt="Sakura-MD" width="100"/>
 
 </p>
 <p align="center">
@@ -9,7 +9,3 @@
 <a href="https://github.com/rakarmp/KitagawaBotz"><img title="Owner" src="https://img.shields.io/badge/Recode-Rakarmp-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 </div>
-
-## :sparkles: Special Thanks To
-
-- [`zeeoneofficial`](https://github.com/zeeoneofficial)
