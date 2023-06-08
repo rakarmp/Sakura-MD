@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/rakarmp/KitagawaBotz/blob/master/sakura.png" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/rakarmp/Sakura-MD/tree/master/gambar/sakura.png" alt="ALPHA BOT" width="100"/>
 
 </p>
 <p align="center">
