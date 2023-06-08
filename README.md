@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/rakarmp/Sakura-MD/tree/master/gambar/sakura.jpg" alt="Sakura-MD" width="100"/>
+<img src="https://raw.githubusercontent.com/rakarmp/Sakura-MD/master/gambar/sakura.jpg" alt="Sakura-MD" width="100"/>
 
 </p>
 <p align="center">
