@@ -1,6 +1,6 @@
 const chalk = require("chalk");
 const fs = require("fs");
-global.wm = `Sakura-Md Recode Rakarmp Dari Kitagawa`; //lenttobs
+global.wm = `Sakura-Md Recode By Rakarmp `; //lenttobs
 let file = require.resolve(__filename);
 fs.watchFile(file, () => {
   fs.unwatchFile(file);
